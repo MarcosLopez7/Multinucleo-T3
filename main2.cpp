@@ -41,7 +41,17 @@ int main(int argc, const char * argv[]) {
     srand((int) time(NULL));
 
     start_c = clock();
-    matrixMult(matA, matB, matC, n);
+
+    int i, j, k;
+
+    #pragma omp parallel for private(j,k)
+      for (i = 0; i < n; ++i)
+        for (j = 0; j < n; ++j)
+          for (k = 0; k < n; ++k)
+            matC[i][j] += matA[i][k] * matB[k][j];
+
+
+
     end_c = clock();
 
     total_c = (double) (end_c - start_c) / (CLOCKS_PER_SEC / 1000);
@@ -76,17 +86,7 @@ void fillMatrix(int **m, int n) {
 
 void matrixMult(int **a, int **b, int **c, int n){
 
-    int i, j, k;
 
-#pragma omp parallel shared(a,b,c) private(i,j,k)
-    {
-#pragma omp for schedule (static)
-    for (i = 0; i < n; i++)
-        for (j = 0; j < n; j++)
-            for (k = 0; k < n; k++)
-                c[i][j] += a[i][k] * b[k][j];
-
-    }
 
 }
 
