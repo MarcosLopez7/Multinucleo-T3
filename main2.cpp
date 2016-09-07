@@ -35,10 +35,10 @@ int main(int argc, const char * argv[]) {
         matC[i] = (int *) malloc(n * sizeof(int *));
     }
 
+    srand((int) time(NULL));
+
     fillMatrix(matA, n);
     fillMatrix(matB, n);
-
-    srand((int) time(NULL));
 
     start_c = clock();
 
