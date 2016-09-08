@@ -1,6 +1,7 @@
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>
+#include <omp.h>
 
 using namespace std;
 
@@ -40,7 +41,17 @@ int main(int argc, const char * argv[]) {
     fillMatrix(matB, n);
 
     start_c = clock();
-    matrixMult(matA, matB, matC, n);
+
+    int i, j, k;
+
+    #pragma omp parallel for private(k)
+      for (i = 0; i < n; ++i)
+        for (j = 0; j < n; ++j)
+          for (k = 0; k < n; ++k)
+            matC[i][j] += matA[i][k] * matB[k][j];
+
+
+
     end_c = clock();
 
     total_c = (double) (end_c - start_c) / (CLOCKS_PER_SEC / 1000);
@@ -58,7 +69,7 @@ int main(int argc, const char * argv[]) {
     end_t = clock();
     total_t = (double) (end_t - start_t) / (CLOCKS_PER_SEC / 1000);
 
-    cout << "Tiempo de cálculo: " << total_c << ", tiempo total: " << total_t << endl;
+    cout << "Tiempo de cálculo: " << total_c << " , tiempo total: " << total_t << endl;
 
     return 0;
 }
@@ -75,15 +86,7 @@ void fillMatrix(int **m, int n) {
 
 void matrixMult(int **a, int **b, int **c, int n){
 
-    for (int i = 0; i < n; ++i) {
-        for (int j = 0; j < n; ++j) {
-            int sum = 0;
-            for (int k = 0; k < n; ++k) {
-                sum += a[i][k] * b[k][j];
-            }
-            c[i][j] = sum;
-        }
-    }
+
 
 }
 

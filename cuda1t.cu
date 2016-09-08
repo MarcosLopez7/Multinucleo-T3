@@ -74,7 +74,7 @@ int main(int argc, const char *argv[]) {
     HANDLE_ERROR(cudaMemcpy (dev_mb, matB, n * n * sizeof(int), cudaMemcpyHostToDevice) );
     
     cudaEventRecord( inicio2, 0 );
-    matrixMult<<<n/10,n/5>>>(dev_ma, dev_mb, dev_mc, dev_n);
+    matrixMult<<<n,1>>>(dev_ma, dev_mb, dev_mc, dev_n);
     cudaEventRecord( fin2, 0); // Se toma el tiempo final.
     cudaEventSynchronize( fin2 ); // Se sincroniza
     cudaEventElapsedTime( &tiempo2, inicio2, fin2 );

@@ -1,0 +1,623 @@
+
+CPU secuencial
+
+N = 50
+Tiempo de cálculo: 0.334 , tiempo total: 0.433
+Tiempo de cálculo: 0.338 , tiempo total: 0.399
+Tiempo de cálculo: 0.331 , tiempo total: 0.393
+Tiempo de cálculo: 0.332 , tiempo total: 0.392
+Tiempo de cálculo: 0.331 , tiempo total: 0.392
+Tiempo de cálculo: 0.337 , tiempo total: 0.399
+Tiempo de cálculo: 0.344 , tiempo total: 0.406
+Tiempo de cálculo: 0.331 , tiempo total: 0.392
+Tiempo de cálculo: 0.332 , tiempo total: 0.394
+Tiempo de cálculo: 0.332 , tiempo total: 0.392
+Los promedios son: .33420000000000000000 .39920000000000000000
+N = 100
+Tiempo de cálculo: 2.619 , tiempo total: 2.837
+Tiempo de cálculo: 2.644 , tiempo total: 2.863
+Tiempo de cálculo: 2.669 , tiempo total: 2.894
+Tiempo de cálculo: 2.927 , tiempo total: 3.15
+Tiempo de cálculo: 2.633 , tiempo total: 2.855
+Tiempo de cálculo: 2.662 , tiempo total: 2.884
+Tiempo de cálculo: 2.579 , tiempo total: 2.8
+Tiempo de cálculo: 2.636 , tiempo total: 2.858
+Tiempo de cálculo: 2.603 , tiempo total: 2.824
+Tiempo de cálculo: 2.651 , tiempo total: 2.871
+Los promedios son: 2.66230000000000000000 2.88360000000000000000
+N = 150
+Tiempo de cálculo: 9.282 , tiempo total: 9.772
+Tiempo de cálculo: 9.192 , tiempo total: 9.685
+Tiempo de cálculo: 9.123 , tiempo total: 9.614
+Tiempo de cálculo: 9.116 , tiempo total: 9.607
+Tiempo de cálculo: 9.256 , tiempo total: 9.752
+Tiempo de cálculo: 9.167 , tiempo total: 9.667
+Tiempo de cálculo: 9.139 , tiempo total: 9.637
+Tiempo de cálculo: 9.255 , tiempo total: 9.746
+Tiempo de cálculo: 9.175 , tiempo total: 9.662
+Tiempo de cálculo: 9.235 , tiempo total: 9.724
+Los promedios son: 9.19400000000000000000 9.68660000000000000000
+N = 200
+Tiempo de cálculo: 22.031 , tiempo total: 22.89
+Tiempo de cálculo: 22.197 , tiempo total: 23.071
+Tiempo de cálculo: 22.069 , tiempo total: 22.925
+Tiempo de cálculo: 22.2 , tiempo total: 23.061
+Tiempo de cálculo: 22.082 , tiempo total: 22.984
+Tiempo de cálculo: 22.133 , tiempo total: 22.993
+Tiempo de cálculo: 22.178 , tiempo total: 23.036
+Tiempo de cálculo: 21.923 , tiempo total: 22.781
+Tiempo de cálculo: 21.942 , tiempo total: 22.8
+Tiempo de cálculo: 21.965 , tiempo total: 22.856
+Los promedios son: 22.07200000000000000000 22.93970000000000000000
+N = 250
+Tiempo de cálculo: 43.391 , tiempo total: 44.771
+Tiempo de cálculo: 43.275 , tiempo total: 44.641
+Tiempo de cálculo: 43.117 , tiempo total: 44.497
+Tiempo de cálculo: 43.237 , tiempo total: 44.612
+Tiempo de cálculo: 43.641 , tiempo total: 45.026
+Tiempo de cálculo: 43.774 , tiempo total: 45.104
+Tiempo de cálculo: 43.361 , tiempo total: 44.697
+Tiempo de cálculo: 43.765 , tiempo total: 45.09
+Tiempo de cálculo: 43.383 , tiempo total: 44.73
+Tiempo de cálculo: 43.312 , tiempo total: 44.638
+Los promedios son: 43.42560000000000000000 44.78060000000000000000
+N = 300
+Tiempo de cálculo: 77.651 , tiempo total: 79.612
+Tiempo de cálculo: 77.11 , tiempo total: 79.053
+Tiempo de cálculo: 77.463 , tiempo total: 79.389
+Tiempo de cálculo: 77.279 , tiempo total: 79.242
+Tiempo de cálculo: 77.365 , tiempo total: 79.32
+Tiempo de cálculo: 77.524 , tiempo total: 79.426
+Tiempo de cálculo: 77.428 , tiempo total: 79.393
+Tiempo de cálculo: 77.354 , tiempo total: 79.306
+Tiempo de cálculo: 77.603 , tiempo total: 79.516
+Tiempo de cálculo: 77.395 , tiempo total: 79.29
+Los promedios son: 77.41720000000000000000 79.35470000000000000000
+N = 350
+Tiempo de cálculo: 134.906 , tiempo total: 137.829
+Tiempo de cálculo: 134.039 , tiempo total: 136.687
+Tiempo de cálculo: 129.353 , tiempo total: 132.032
+Tiempo de cálculo: 129.056 , tiempo total: 131.693
+Tiempo de cálculo: 129.126 , tiempo total: 131.769
+Tiempo de cálculo: 129.088 , tiempo total: 131.717
+Tiempo de cálculo: 128.946 , tiempo total: 131.543
+Tiempo de cálculo: 128.921 , tiempo total: 131.539
+Tiempo de cálculo: 132.262 , tiempo total: 134.893
+Tiempo de cálculo: 129.148 , tiempo total: 131.803
+Los promedios son: 130.48450000000000000000 133.15050000000000000000
+N = 400
+Tiempo de cálculo: 186.027 , tiempo total: 189.466
+Tiempo de cálculo: 186.077 , tiempo total: 189.466
+Tiempo de cálculo: 187.009 , tiempo total: 190.422
+Tiempo de cálculo: 185.941 , tiempo total: 189.402
+Tiempo de cálculo: 185.852 , tiempo total: 189.252
+Tiempo de cálculo: 185.746 , tiempo total: 189.174
+Tiempo de cálculo: 186.817 , tiempo total: 190.237
+Tiempo de cálculo: 186.719 , tiempo total: 190.115
+Tiempo de cálculo: 186.448 , tiempo total: 189.889
+Tiempo de cálculo: 186.098 , tiempo total: 189.509
+Los promedios son: 186.27340000000000000000 189.69320000000000000000
+N = 450
+Tiempo de cálculo: 267.79 , tiempo total: 272.109
+Tiempo de cálculo: 267.821 , tiempo total: 272.139
+Tiempo de cálculo: 267.631 , tiempo total: 272.042
+Tiempo de cálculo: 267.963 , tiempo total: 272.291
+Tiempo de cálculo: 267.296 , tiempo total: 271.61
+Tiempo de cálculo: 267.823 , tiempo total: 272.123
+Tiempo de cálculo: 267.466 , tiempo total: 271.809
+Tiempo de cálculo: 267.914 , tiempo total: 272.239
+Tiempo de cálculo: 267.518 , tiempo total: 271.841
+Tiempo de cálculo: 266.584 , tiempo total: 270.905
+Los promedios son: 267.58060000000000000000 271.91080000000000000000
+N = 500
+Tiempo de cálculo: 383.554 , tiempo total: 388.883
+Tiempo de cálculo: 383.585 , tiempo total: 388.911
+Tiempo de cálculo: 382.445 , tiempo total: 387.765
+Tiempo de cálculo: 383.001 , tiempo total: 388.318
+Tiempo de cálculo: 383.776 , tiempo total: 389.078
+Tiempo de cálculo: 383.379 , tiempo total: 388.738
+Tiempo de cálculo: 382.913 , tiempo total: 388.263
+Tiempo de cálculo: 384.308 , tiempo total: 389.635
+Tiempo de cálculo: 381.865 , tiempo total: 387.156
+Tiempo de cálculo: 383.826 , tiempo total: 389.198
+Los promedios son: 383.26520000000000000000 388.59450000000000000000
+
+CPU OMP
+
+N = 50
+Tiempo de cálculo: 17.497 , tiempo total: 17.567
+Tiempo de cálculo: 14.03 , tiempo total: 14.098
+Tiempo de cálculo: 17.773 , tiempo total: 17.841
+Tiempo de cálculo: 24.992 , tiempo total: 25.06
+Tiempo de cálculo: 20.21 , tiempo total: 20.283
+Tiempo de cálculo: 16.878 , tiempo total: 16.953
+Tiempo de cálculo: 17.061 , tiempo total: 17.135
+Tiempo de cálculo: 17.254 , tiempo total: 17.322
+Tiempo de cálculo: 19.835 , tiempo total: 19.91
+Tiempo de cálculo: 18.787 , tiempo total: 18.856
+Los promedios son: 18.43170000000000000000 18.50250000000000000000
+N = 100
+Tiempo de cálculo: 34.915 , tiempo total: 35.147
+Tiempo de cálculo: 25.095 , tiempo total: 25.324
+Tiempo de cálculo: 32.367 , tiempo total: 32.6
+Tiempo de cálculo: 32.01 , tiempo total: 32.244
+Tiempo de cálculo: 28.865 , tiempo total: 29.098
+Tiempo de cálculo: 29.159 , tiempo total: 35.615
+Tiempo de cálculo: 27.636 , tiempo total: 27.87
+Tiempo de cálculo: 26.402 , tiempo total: 26.634
+Tiempo de cálculo: 28.096 , tiempo total: 34.522
+Tiempo de cálculo: 29.795 , tiempo total: 30.03
+Los promedios son: 29.43400000000000000000 30.90840000000000000000
+N = 150
+Tiempo de cálculo: 63.859 , tiempo total: 64.357
+Tiempo de cálculo: 51.205 , tiempo total: 51.7
+Tiempo de cálculo: 54.137 , tiempo total: 54.677
+Tiempo de cálculo: 55.095 , tiempo total: 55.596
+Tiempo de cálculo: 57.19 , tiempo total: 57.691
+Tiempo de cálculo: 55.737 , tiempo total: 56.239
+Tiempo de cálculo: 61.755 , tiempo total: 62.291
+Tiempo de cálculo: 57.714 , tiempo total: 58.217
+Tiempo de cálculo: 56.938 , tiempo total: 57.438
+Tiempo de cálculo: 61.531 , tiempo total: 62.031
+Los promedios son: 57.51610000000000000000 58.02370000000000000000
+N = 200
+Tiempo de cálculo: 107.301 , tiempo total: 108.211
+Tiempo de cálculo: 113.077 , tiempo total: 113.945
+Tiempo de cálculo: 111.352 , tiempo total: 112.259
+Tiempo de cálculo: 112.307 , tiempo total: 113.186
+Tiempo de cálculo: 115.514 , tiempo total: 116.415
+Tiempo de cálculo: 108.82 , tiempo total: 109.702
+Tiempo de cálculo: 118.735 , tiempo total: 119.601
+Tiempo de cálculo: 108.732 , tiempo total: 109.606
+Tiempo de cálculo: 108.061 , tiempo total: 108.934
+Tiempo de cálculo: 107.022 , tiempo total: 107.929
+Los promedios son: 111.09210000000000000000 111.97880000000000000000
+N = 250
+Tiempo de cálculo: 167.721 , tiempo total: 169.166
+Tiempo de cálculo: 166.18 , tiempo total: 167.532
+Tiempo de cálculo: 162.594 , tiempo total: 163.939
+Tiempo de cálculo: 171.208 , tiempo total: 172.551
+Tiempo de cálculo: 162.651 , tiempo total: 164.055
+Tiempo de cálculo: 167.822 , tiempo total: 169.16
+Tiempo de cálculo: 168.357 , tiempo total: 169.71
+Tiempo de cálculo: 163.393 , tiempo total: 164.736
+Tiempo de cálculo: 156.871 , tiempo total: 158.266
+Tiempo de cálculo: 165.514 , tiempo total: 166.856
+Los promedios son: 165.23110000000000000000 166.59710000000000000000
+N = 300
+Tiempo de cálculo: 350.753 , tiempo total: 352.73
+Tiempo de cálculo: 355.167 , tiempo total: 357.127
+Tiempo de cálculo: 343.404 , tiempo total: 345.336
+Tiempo de cálculo: 334.902 , tiempo total: 336.897
+Tiempo de cálculo: 349.787 , tiempo total: 351.708
+Tiempo de cálculo: 352.405 , tiempo total: 354.348
+Tiempo de cálculo: 346.372 , tiempo total: 348.292
+Tiempo de cálculo: 334.432 , tiempo total: 336.394
+Tiempo de cálculo: 334.093 , tiempo total: 336.047
+Tiempo de cálculo: 348.761 , tiempo total: 350.746
+Los promedios son: 345.00760000000000000000 346.96250000000000000000
+N = 350
+Tiempo de cálculo: 454.56 , tiempo total: 457.244
+Tiempo de cálculo: 519.934 , tiempo total: 522.571
+Tiempo de cálculo: 503.688 , tiempo total: 506.357
+Tiempo de cálculo: 457.82 , tiempo total: 460.488
+Tiempo de cálculo: 479.574 , tiempo total: 482.319
+Tiempo de cálculo: 486.025 , tiempo total: 488.68
+Tiempo de cálculo: 468.715 , tiempo total: 471.39
+Tiempo de cálculo: 434.955 , tiempo total: 437.592
+Tiempo de cálculo: 485.468 , tiempo total: 488.152
+Tiempo de cálculo: 471.901 , tiempo total: 474.528
+Los promedios son: 476.26400000000000000000 478.93210000000000000000
+N = 400
+Tiempo de cálculo: 774.93 , tiempo total: 778.379
+Tiempo de cálculo: 779.251 , tiempo total: 782.645
+Tiempo de cálculo: 797.462 , tiempo total: 800.879
+Tiempo de cálculo: 782.65 , tiempo total: 786.042
+Tiempo de cálculo: 841.051 , tiempo total: 844.49
+Tiempo de cálculo: 793.33 , tiempo total: 796.791
+Tiempo de cálculo: 753.789 , tiempo total: 757.243
+Tiempo de cálculo: 831.751 , tiempo total: 835.174
+Tiempo de cálculo: 776.474 , tiempo total: 779.895
+Tiempo de cálculo: 791.959 , tiempo total: 795.41
+Los promedios son: 792.26470000000000000000 795.69480000000000000000
+N = 450
+Tiempo de cálculo: 1101.51 , tiempo total: 1105.85
+Tiempo de cálculo: 1105.81 , tiempo total: 1110.16
+Tiempo de cálculo: 1030.23 , tiempo total: 1034.58
+Tiempo de cálculo: 1084.2 , tiempo total: 1088.54
+Tiempo de cálculo: 1006.43 , tiempo total: 1010.77
+Tiempo de cálculo: 973.212 , tiempo total: 977.529
+Tiempo de cálculo: 1034.93 , tiempo total: 1039.27
+Tiempo de cálculo: 1036.1 , tiempo total: 1040.43
+Tiempo de cálculo: 1079.76 , tiempo total: 1084.11
+Tiempo de cálculo: 1096.98 , tiempo total: 1101.38
+Los promedios son: 1054.91620000000000000000 1059.26190000000000000000
+N = 500
+Tiempo de cálculo: 1306.38 , tiempo total: 1311.8
+Tiempo de cálculo: 1305.1 , tiempo total: 1310.43
+Tiempo de cálculo: 1352.5 , tiempo total: 1357.85
+Tiempo de cálculo: 1354.93 , tiempo total: 1360.26
+Tiempo de cálculo: 1390.94 , tiempo total: 1396.28
+Tiempo de cálculo: 1220.26 , tiempo total: 1225.6
+Tiempo de cálculo: 1318.38 , tiempo total: 1323.8
+Tiempo de cálculo: 1326.6 , tiempo total: 1331.93
+Tiempo de cálculo: 1389.2 , tiempo total: 1394.59
+Tiempo de cálculo: 1286.92 , tiempo total: 1292.28
+Los promedios son: 1325.12100000000000000000 1330.48200000000000000000
+
+GPU 1 bloque n threads
+
+N = 50
+Tiempo de cálculo: 8.516576 , tiempo total: 9.659520
+Tiempo de cálculo: 8.506944 , tiempo total: 9.473504
+Tiempo de cálculo: 10.730336 , tiempo total: 11.740832
+Tiempo de cálculo: 8.503840 , tiempo total: 9.512672
+Tiempo de cálculo: 8.982848 , tiempo total: 10.010688
+Tiempo de cálculo: 9.009952 , tiempo total: 9.966048
+Tiempo de cálculo: 8.511840 , tiempo total: 9.506432
+Tiempo de cálculo: 8.517504 , tiempo total: 14.451360
+Tiempo de cálculo: 8.513280 , tiempo total: 9.536512
+Tiempo de cálculo: 8.919296 , tiempo total: 9.796288
+Los promedios son: 8.87124160000000000000 10.36538560000000000000
+N = 100
+Tiempo de cálculo: 35.799137 , tiempo total: 38.999073
+Tiempo de cálculo: 34.130848 , tiempo total: 35.210274
+Tiempo de cálculo: 34.563618 , tiempo total: 35.385185
+Tiempo de cálculo: 33.837505 , tiempo total: 34.677406
+Tiempo de cálculo: 34.803009 , tiempo total: 35.649185
+Tiempo de cálculo: 36.038593 , tiempo total: 37.237633
+Tiempo de cálculo: 35.561249 , tiempo total: 36.386879
+Tiempo de cálculo: 36.044128 , tiempo total: 36.873215
+Tiempo de cálculo: 33.958466 , tiempo total: 37.049313
+Tiempo de cálculo: 36.088322 , tiempo total: 37.212543
+Los promedios son: 35.08248750000000000000 36.46807060000000000000
+N = 150
+Tiempo de cálculo: 76.924896 , tiempo total: 80.706558
+Tiempo de cálculo: 76.176193 , tiempo total: 80.679810
+Tiempo de cálculo: 76.187614 , tiempo total: 81.717827
+Tiempo de cálculo: 78.545662 , tiempo total: 80.057693
+Tiempo de cálculo: 79.010239 , tiempo total: 80.550461
+Tiempo de cálculo: 76.194656 , tiempo total: 77.734177
+Tiempo de cálculo: 69.924995 , tiempo total: 72.226082
+Tiempo de cálculo: 67.495773 , tiempo total: 71.131683
+Tiempo de cálculo: 67.045662 , tiempo total: 68.556099
+Tiempo de cálculo: 66.766945 , tiempo total: 73.185471
+Los promedios son: 73.42726350000000000000 76.65458610000000000000
+N = 200
+Tiempo de cálculo: 115.981827 , tiempo total: 119.372093
+Tiempo de cálculo: 117.874817 , tiempo total: 123.485405
+Tiempo de cálculo: 116.055428 , tiempo total: 119.027359
+Tiempo de cálculo: 115.897537 , tiempo total: 118.210434
+Tiempo de cálculo: 116.030594 , tiempo total: 118.318207
+Tiempo de cálculo: 116.041183 , tiempo total: 122.658974
+Tiempo de cálculo: 116.197662 , tiempo total: 118.504066
+Tiempo de cálculo: 117.579361 , tiempo total: 121.269760
+Tiempo de cálculo: 117.885727 , tiempo total: 121.457283
+Tiempo de cálculo: 116.029854 , tiempo total: 120.310272
+Los promedios son: 116.55739900000000000000 120.26138530000000000000
+N = 250
+Tiempo de cálculo: 183.571365 , tiempo total: 188.363007
+Tiempo de cálculo: 180.115967 , tiempo total: 184.038208
+Tiempo de cálculo: 179.129562 , tiempo total: 186.820099
+Tiempo de cálculo: 179.875687 , tiempo total: 188.474503
+Tiempo de cálculo: 180.665985 , tiempo total: 184.892578
+Tiempo de cálculo: 179.112701 , tiempo total: 182.226852
+Tiempo de cálculo: 180.496552 , tiempo total: 184.277954
+Tiempo de cálculo: 179.008286 , tiempo total: 188.220703
+Tiempo de cálculo: 179.076187 , tiempo total: 182.207047
+Tiempo de cálculo: 180.597092 , tiempo total: 185.331711
+Los promedios son: 180.16493840000000000000 185.48526620000000000000
+N = 300
+Tiempo de cálculo: 260.534241 , tiempo total: 266.363678
+Tiempo de cálculo: 259.033569 , tiempo total: 265.468170
+Tiempo de cálculo: 260.450409 , tiempo total: 266.874542
+Tiempo de cálculo: 260.598083 , tiempo total: 266.864014
+Tiempo de cálculo: 259.129150 , tiempo total: 268.736633
+Tiempo de cálculo: 259.453949 , tiempo total: 267.780273
+Tiempo de cálculo: 259.068695 , tiempo total: 265.467896
+Tiempo de cálculo: 261.605347 , tiempo total: 267.074341
+Tiempo de cálculo: 259.512695 , tiempo total: 265.174164
+Tiempo de cálculo: 261.359894 , tiempo total: 268.542175
+Los promedios son: 260.07460320000000000000 266.83458860000000000000
+N = 350
+Tiempo de cálculo: 353.862457 , tiempo total: 359.557190
+Tiempo de cálculo: 354.022095 , tiempo total: 360.383911
+Tiempo de cálculo: 353.384216 , tiempo total: 361.488831
+Tiempo de cálculo: 352.991364 , tiempo total: 358.724915
+Tiempo de cálculo: 354.415955 , tiempo total: 362.590271
+Tiempo de cálculo: 353.018463 , tiempo total: 361.357086
+Tiempo de cálculo: 353.152679 , tiempo total: 358.872009
+Tiempo de cálculo: 352.965698 , tiempo total: 361.775116
+Tiempo de cálculo: 354.387512 , tiempo total: 362.524658
+Tiempo de cálculo: 355.175781 , tiempo total: 360.926453
+Los promedios son: 353.73762200000000000000 360.82004400000000000000
+N = 400
+Tiempo de cálculo: 479.381348 , tiempo total: 492.096893
+Tiempo de cálculo: 479.116821 , tiempo total: 489.121033
+Tiempo de cálculo: 478.341034 , tiempo total: 486.402069
+Tiempo de cálculo: 478.364288 , tiempo total: 486.393463
+Tiempo de cálculo: 479.059448 , tiempo total: 487.069794
+Tiempo de cálculo: 479.544373 , tiempo total: 490.024567
+Tiempo de cálculo: 478.275299 , tiempo total: 485.781006
+Tiempo de cálculo: 478.357452 , tiempo total: 488.698975
+Tiempo de cálculo: 478.325378 , tiempo total: 485.729248
+Tiempo de cálculo: 478.295410 , tiempo total: 486.760437
+Los promedios son: 478.70608510000000000000 487.80774850000000000000
+N = 450
+Tiempo de cálculo: 624.070374 , tiempo total: 634.817749
+Tiempo de cálculo: 624.638916 , tiempo total: 636.876831
+Tiempo de cálculo: 624.860718 , tiempo total: 634.002380
+Tiempo de cálculo: 625.129944 , tiempo total: 637.278870
+Tiempo de cálculo: 626.442871 , tiempo total: 635.252075
+Tiempo de cálculo: 625.216125 , tiempo total: 638.752014
+Tiempo de cálculo: 625.306458 , tiempo total: 638.633972
+Tiempo de cálculo: 624.119263 , tiempo total: 636.493652
+Tiempo de cálculo: 624.283447 , tiempo total: 635.814148
+Tiempo de cálculo: 624.125000 , tiempo total: 633.908508
+Los promedios son: 624.81931160000000000000 636.18301990000000000000
+N = 500
+Tiempo de cálculo: 770.176941 , tiempo total: 784.217957
+Tiempo de cálculo: 770.084900 , tiempo total: 781.717224
+Tiempo de cálculo: 770.032166 , tiempo total: 791.003479
+Tiempo de cálculo: 772.062866 , tiempo total: 785.615234
+Tiempo de cálculo: 770.193420 , tiempo total: 781.772827
+Tiempo de cálculo: 771.216309 , tiempo total: 782.867004
+Tiempo de cálculo: 770.092590 , tiempo total: 783.937561
+Tiempo de cálculo: 770.198364 , tiempo total: 781.817993
+Tiempo de cálculo: 771.847412 , tiempo total: 785.449097
+Tiempo de cálculo: 770.136841 , tiempo total: 784.118896
+Los promedios son: 770.60418090000000000000 784.25172720000000000000
+
+GPU 1 THREAD N BLOQUES
+
+N = 50
+Tiempo de cálculo: 3.079040 , tiempo total: 3.548224
+Tiempo de cálculo: 2.856032 , tiempo total: 3.322880
+Tiempo de cálculo: 3.344256 , tiempo total: 3.859488
+Tiempo de cálculo: 1.129632 , tiempo total: 1.592224
+Tiempo de cálculo: 2.803040 , tiempo total: 3.271456
+Tiempo de cálculo: 2.847040 , tiempo total: 3.318720
+Tiempo de cálculo: 1.132960 , tiempo total: 1.784064
+Tiempo de cálculo: 3.030176 , tiempo total: 3.499072
+Tiempo de cálculo: 1.128640 , tiempo total: 1.579648
+Tiempo de cálculo: 2.782240 , tiempo total: 3.242336
+Los promedios son: 2.41330560000000000000 2.90181120000000000000
+N = 100
+Tiempo de cálculo: 4.581120 , tiempo total: 5.395168
+Tiempo de cálculo: 6.555008 , tiempo total: 7.374464
+Tiempo de cálculo: 4.579360 , tiempo total: 5.334912
+Tiempo de cálculo: 4.581504 , tiempo total: 5.151104
+Tiempo de cálculo: 4.586016 , tiempo total: 5.351552
+Tiempo de cálculo: 4.579296 , tiempo total: 5.358144
+Tiempo de cálculo: 5.631392 , tiempo total: 6.406016
+Tiempo de cálculo: 4.575616 , tiempo total: 5.353792
+Tiempo de cálculo: 5.592416 , tiempo total: 6.400160
+Tiempo de cálculo: 5.523104 , tiempo total: 6.303296
+Los promedios son: 5.07848320000000000000 5.84286080000000000000
+N = 150
+Tiempo de cálculo: 20.136095 , tiempo total: 23.132608
+Tiempo de cálculo: 20.125504 , tiempo total: 22.419359
+Tiempo de cálculo: 22.472544 , tiempo total: 24.034529
+Tiempo de cálculo: 20.623455 , tiempo total: 22.163584
+Tiempo de cálculo: 20.120447 , tiempo total: 23.752865
+Tiempo de cálculo: 20.125984 , tiempo total: 21.661440
+Tiempo de cálculo: 20.864096 , tiempo total: 22.373568
+Tiempo de cálculo: 20.127872 , tiempo total: 21.682049
+Tiempo de cálculo: 20.129663 , tiempo total: 24.067265
+Tiempo de cálculo: 20.725311 , tiempo total: 24.232897
+Los promedios son: 20.54509710000000000000 22.95201640000000000000
+N = 200
+Tiempo de cálculo: 38.253567 , tiempo total: 40.472927
+Tiempo de cálculo: 37.235680 , tiempo total: 39.490082
+Tiempo de cálculo: 35.922527 , tiempo total: 43.235489
+Tiempo de cálculo: 37.679649 , tiempo total: 41.881088
+Tiempo de cálculo: 37.613216 , tiempo total: 41.516575
+Tiempo de cálculo: 38.303230 , tiempo total: 45.629215
+Tiempo de cálculo: 37.530399 , tiempo total: 41.398880
+Tiempo de cálculo: 35.933662 , tiempo total: 38.893345
+Tiempo de cálculo: 38.597473 , tiempo total: 42.504448
+Tiempo de cálculo: 35.922176 , tiempo total: 40.782974
+Los promedios son: 37.29915790000000000000 41.58050230000000000000
+N = 250
+Tiempo de cálculo: 83.416641 , tiempo total: 86.568451
+Tiempo de cálculo: 83.055519 , tiempo total: 87.783005
+Tiempo de cálculo: 83.411842 , tiempo total: 87.258209
+Tiempo de cálculo: 84.513344 , tiempo total: 91.506081
+Tiempo de cálculo: 83.197731 , tiempo total: 87.017822
+Tiempo de cálculo: 83.411964 , tiempo total: 89.311043
+Tiempo de cálculo: 82.913956 , tiempo total: 91.440353
+Tiempo de cálculo: 83.282433 , tiempo total: 87.063202
+Tiempo de cálculo: 83.394432 , tiempo total: 87.450783
+Tiempo de cálculo: 83.833405 , tiempo total: 88.865952
+Los promedios son: 83.44312670000000000000 88.42649010000000000000
+N = 300
+Tiempo de cálculo: 122.039970 , tiempo total: 127.250206
+Tiempo de cálculo: 122.950371 , tiempo total: 127.323036
+Tiempo de cálculo: 122.326302 , tiempo total: 126.624641
+Tiempo de cálculo: 120.555199 , tiempo total: 125.198784
+Tiempo de cálculo: 120.316383 , tiempo total: 124.616348
+Tiempo de cálculo: 120.596291 , tiempo total: 125.873505
+Tiempo de cálculo: 122.604546 , tiempo total: 127.480064
+Tiempo de cálculo: 120.501503 , tiempo total: 127.782463
+Tiempo de cálculo: 120.588066 , tiempo total: 125.073380
+Tiempo de cálculo: 121.495361 , tiempo total: 131.562881
+Los promedios son: 121.39739920000000000000 126.87853080000000000000
+N = 350
+Tiempo de cálculo: 217.411774 , tiempo total: 224.548767
+Tiempo de cálculo: 218.491074 , tiempo total: 226.485703
+Tiempo de cálculo: 216.438950 , tiempo total: 224.235519
+Tiempo de cálculo: 216.263718 , tiempo total: 221.952866
+Tiempo de cálculo: 216.268539 , tiempo total: 225.014297
+Tiempo de cálculo: 218.279907 , tiempo total: 223.928574
+Tiempo de cálculo: 218.447815 , tiempo total: 227.423203
+Tiempo de cálculo: 216.425537 , tiempo total: 226.888031
+Tiempo de cálculo: 217.160034 , tiempo total: 225.847610
+Tiempo de cálculo: 217.832581 , tiempo total: 226.716003
+Los promedios son: 217.30199290000000000000 225.30405730000000000000
+N = 400
+Tiempo de cálculo: 292.402496 , tiempo total: 303.056122
+Tiempo de cálculo: 288.784454 , tiempo total: 297.272034
+Tiempo de cálculo: 291.509796 , tiempo total: 299.596252
+Tiempo de cálculo: 291.253235 , tiempo total: 298.892365
+Tiempo de cálculo: 291.468384 , tiempo total: 302.338867
+Tiempo de cálculo: 289.495270 , tiempo total: 297.794220
+Tiempo de cálculo: 289.741486 , tiempo total: 299.164886
+Tiempo de cálculo: 290.282715 , tiempo total: 300.420471
+Tiempo de cálculo: 293.438446 , tiempo total: 301.580078
+Tiempo de cálculo: 290.401611 , tiempo total: 298.705994
+Los promedios son: 290.87778930000000000000 299.88212890000000000000
+N = 450
+Tiempo de cálculo: 453.465271 , tiempo total: 463.129395
+Tiempo de cálculo: 453.639008 , tiempo total: 466.886047
+Tiempo de cálculo: 455.168274 , tiempo total: 466.513458
+Tiempo de cálculo: 457.305756 , tiempo total: 470.061920
+Tiempo de cálculo: 454.289490 , tiempo total: 465.184723
+Tiempo de cálculo: 455.262573 , tiempo total: 469.438721
+Tiempo de cálculo: 453.547455 , tiempo total: 462.605530
+Tiempo de cálculo: 455.193634 , tiempo total: 469.518799
+Tiempo de cálculo: 453.256104 , tiempo total: 463.862152
+Tiempo de cálculo: 453.807281 , tiempo total: 464.624542
+Los promedios son: 454.49348460000000000000 466.18252870000000000000
+N = 500
+Tiempo de cálculo: 569.207336 , tiempo total: 582.972412
+Tiempo de cálculo: 568.816772 , tiempo total: 580.479919
+Tiempo de cálculo: 569.015259 , tiempo total: 582.609131
+Tiempo de cálculo: 572.169922 , tiempo total: 585.804565
+Tiempo de cálculo: 571.135986 , tiempo total: 585.237854
+Tiempo de cálculo: 568.623352 , tiempo total: 581.348145
+Tiempo de cálculo: 571.972534 , tiempo total: 584.514587
+Tiempo de cálculo: 567.473083 , tiempo total: 579.285339
+Tiempo de cálculo: 570.848328 , tiempo total: 584.054810
+Tiempo de cálculo: 568.196228 , tiempo total: 580.748291
+Los promedios son: 569.74588000000000000000 582.70550530000000000000
+
+GPU n/10 BLOQUES X N/5 THREADS
+
+N = 50
+Tiempo de cálculo: 22.647 , tiempo total: 22.719
+Tiempo de cálculo: 14.197 , tiempo total: 14.268
+Tiempo de cálculo: 19.621 , tiempo total: 19.693
+Tiempo de cálculo: 20.339 , tiempo total: 20.412
+Tiempo de cálculo: 17.577 , tiempo total: 23.831
+Tiempo de cálculo: 16.51 , tiempo total: 16.58
+Tiempo de cálculo: 20.072 , tiempo total: 20.143
+Tiempo de cálculo: 17.603 , tiempo total: 17.673
+Tiempo de cálculo: 17.512 , tiempo total: 23.766
+Tiempo de cálculo: 22.675 , tiempo total: 22.748
+Los promedios son: 18.87530000000000000000 20.18330000000000000000
+N = 100
+Tiempo de cálculo: 27.807 , tiempo total: 28.041
+Tiempo de cálculo: 26.988 , tiempo total: 27.22
+Tiempo de cálculo: 29.315 , tiempo total: 29.549
+Tiempo de cálculo: 27.196 , tiempo total: 27.426
+Tiempo de cálculo: 26.94 , tiempo total: 27.172
+Tiempo de cálculo: 24.603 , tiempo total: 24.831
+Tiempo de cálculo: 32.944 , tiempo total: 33.188
+Tiempo de cálculo: 26.077 , tiempo total: 26.314
+Tiempo de cálculo: 26.61 , tiempo total: 26.839
+Tiempo de cálculo: 27.265 , tiempo total: 27.492
+Los promedios son: 27.57450000000000000000 27.80720000000000000000
+N = 150
+Tiempo de cálculo: 50.134 , tiempo total: 56.839
+Tiempo de cálculo: 56.418 , tiempo total: 56.913
+Tiempo de cálculo: 50.457 , tiempo total: 50.96
+Tiempo de cálculo: 61.165 , tiempo total: 61.662
+Tiempo de cálculo: 57.309 , tiempo total: 57.813
+Tiempo de cálculo: 55.78 , tiempo total: 56.281
+Tiempo de cálculo: 55.246 , tiempo total: 55.745
+Tiempo de cálculo: 57.192 , tiempo total: 57.693
+Tiempo de cálculo: 55.328 , tiempo total: 55.828
+Tiempo de cálculo: 51.321 , tiempo total: 51.82
+Los promedios son: 55.03500000000000000000 56.15540000000000000000
+N = 200
+Tiempo de cálculo: 108.328 , tiempo total: 109.264
+Tiempo de cálculo: 100.949 , tiempo total: 101.825
+Tiempo de cálculo: 118.951 , tiempo total: 119.831
+Tiempo de cálculo: 107.837 , tiempo total: 108.706
+Tiempo de cálculo: 116.43 , tiempo total: 117.302
+Tiempo de cálculo: 110.852 , tiempo total: 111.726
+Tiempo de cálculo: 109.141 , tiempo total: 110.022
+Tiempo de cálculo: 112.556 , tiempo total: 113.436
+Tiempo de cálculo: 116.537 , tiempo total: 117.449
+Tiempo de cálculo: 112.924 , tiempo total: 113.795
+Los promedios son: 111.45050000000000000000 112.33560000000000000000
+N = 250
+Tiempo de cálculo: 151.848 , tiempo total: 153.193
+Tiempo de cálculo: 171.715 , tiempo total: 173.092
+Tiempo de cálculo: 146.761 , tiempo total: 148.117
+Tiempo de cálculo: 172.9 , tiempo total: 174.28
+Tiempo de cálculo: 165.474 , tiempo total: 166.974
+Tiempo de cálculo: 167.064 , tiempo total: 168.409
+Tiempo de cálculo: 156.041 , tiempo total: 157.383
+Tiempo de cálculo: 146.217 , tiempo total: 147.575
+Tiempo de cálculo: 160.406 , tiempo total: 161.758
+Tiempo de cálculo: 157.28 , tiempo total: 158.634
+Los promedios son: 159.57060000000000000000 160.94150000000000000000
+N = 300
+Tiempo de cálculo: 348.279 , tiempo total: 350.205
+Tiempo de cálculo: 326.578 , tiempo total: 328.513
+Tiempo de cálculo: 329.331 , tiempo total: 331.388
+Tiempo de cálculo: 362.955 , tiempo total: 364.869
+Tiempo de cálculo: 334.474 , tiempo total: 336.422
+Tiempo de cálculo: 328.614 , tiempo total: 330.54
+Tiempo de cálculo: 327.494 , tiempo total: 329.481
+Tiempo de cálculo: 328.016 , tiempo total: 329.943
+Tiempo de cálculo: 346.525 , tiempo total: 348.441
+Tiempo de cálculo: 315 , tiempo total: 316.973
+Los promedios son: 334.72660000000000000000 336.67750000000000000000
+N = 350
+Tiempo de cálculo: 448.644 , tiempo total: 451.272
+Tiempo de cálculo: 457.298 , tiempo total: 459.993
+Tiempo de cálculo: 445.472 , tiempo total: 448.116
+Tiempo de cálculo: 454.805 , tiempo total: 457.477
+Tiempo de cálculo: 489.547 , tiempo total: 492.203
+Tiempo de cálculo: 447.412 , tiempo total: 450.068
+Tiempo de cálculo: 457.813 , tiempo total: 460.47
+Tiempo de cálculo: 488.741 , tiempo total: 491.379
+Tiempo de cálculo: 460.139 , tiempo total: 462.849
+Tiempo de cálculo: 452.329 , tiempo total: 454.973
+Los promedios son: 460.22000000000000000000 462.88000000000000000000
+N = 400
+Tiempo de cálculo: 775.678 , tiempo total: 779.105
+Tiempo de cálculo: 749.005 , tiempo total: 752.446
+Tiempo de cálculo: 780.92 , tiempo total: 784.365
+Tiempo de cálculo: 805.42 , tiempo total: 808.882
+Tiempo de cálculo: 808.119 , tiempo total: 811.537
+Tiempo de cálculo: 803.855 , tiempo total: 807.284
+Tiempo de cálculo: 788.062 , tiempo total: 791.481
+Tiempo de cálculo: 783.152 , tiempo total: 786.605
+Tiempo de cálculo: 794.751 , tiempo total: 798.212
+Tiempo de cálculo: 783.139 , tiempo total: 786.575
+Los promedios son: 787.21010000000000000000 790.64920000000000000000
+N = 450
+Tiempo de cálculo: 1167.88 , tiempo total: 1172.3
+Tiempo de cálculo: 1059.48 , tiempo total: 1064.49
+Tiempo de cálculo: 1103.88 , tiempo total: 1108.22
+Tiempo de cálculo: 1080.38 , tiempo total: 1084.73
+Tiempo de cálculo: 1051.67 , tiempo total: 1056.02
+Tiempo de cálculo: 1140.87 , tiempo total: 1145.2
+Tiempo de cálculo: 1089.44 , tiempo total: 1093.76
+Tiempo de cálculo: 1121.33 , tiempo total: 1125.7
+Tiempo de cálculo: 1054.44 , tiempo total: 1058.78
+Tiempo de cálculo: 1076.53 , tiempo total: 1080.88
+Los promedios son: 1094.59000000000000000000 1099.00800000000000000000
+N = 500
+Tiempo de cálculo: 1314.46 , tiempo total: 1319.79
+Tiempo de cálculo: 1342.44 , tiempo total: 1347.78
+Tiempo de cálculo: 1377.75 , tiempo total: 1383.12
+Tiempo de cálculo: 1328.74 , tiempo total: 1334.12
+Tiempo de cálculo: 1437.86 , tiempo total: 1445.23
+Tiempo de cálculo: 1280.65 , tiempo total: 1286.17
+Tiempo de cálculo: 1405.77 , tiempo total: 1411.14
+Tiempo de cálculo: 1332.23 , tiempo total: 1337.57
+Tiempo de cálculo: 1371.51 , tiempo total: 1376.89
+Tiempo de cálculo: 1345.06 , tiempo total: 1350.42
+Los promedios son: 1353.64700000000000000000 1359.22300000000000000000
+
+Caracteristicas de la computadora: 
+GPU max clock rate	980 MHz
+CUDA Cores	1344
+GPU 	geforce  GTX 670
+CPU 	i7-4770
+CPU speed	3.4 GHz
+CPU CORES	4 fisicos + 4 virtuales
