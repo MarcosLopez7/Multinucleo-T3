@@ -10,7 +10,7 @@ fi
 
 touch tiempos.txt
 
-N=50
+N=100
 
 echo "" >> tiempos.txt
 echo "CPU secuencial" >> tiempos.txt
@@ -41,11 +41,11 @@ do
 
 	echo "Los promedios son: $promc $promt" >> tiempos.txt	
 
-	let N=N+50
+	let N=N+100
 done 
 
 
-N=50
+N=100
 
 echo "" >> tiempos.txt
 echo "CPU OMP" >> tiempos.txt
@@ -76,10 +76,10 @@ do
 
         echo "Los promedios son: $promc $promt" >> tiempos.txt
 
-        let N=N+50
+        let N=N+100
 done
 
-N=50
+N=200
 
 echo "" >> tiempos.txt
 echo "GPU 1 bloque n threads" >> tiempos.txt
@@ -110,10 +110,10 @@ do
 
         echo "Los promedios son: $promc $promt" >> tiempos.txt
 
-        let N=N+50
+        let N=N+200
 done
 
-N=50
+N=200
 
 echo "" >> tiempos.txt
 echo "GPU 1 THREAD N BLOQUES" >> tiempos.txt
@@ -144,10 +144,10 @@ do
 
         echo "Los promedios son: $promc $promt" >> tiempos.txt
 
-        let N=N+50
+        let N=N+200
 done
 
-N=50
+N=200
 
 echo "" >> tiempos.txt
 echo "GPU n/10 BLOQUES X N/5 THREADS" >> tiempos.txt
@@ -178,7 +178,7 @@ do
 
         echo "Los promedios son: $promc $promt" >> tiempos.txt
 
-        let N=N+50
+        let N=N+200
 done
 
 echo "" >> tiempos.txt
@@ -190,5 +190,10 @@ echo "GPU 	geforce  GTX 670" >> tiempos.txt
 echo "CPU 	i7-4770" >> tiempos.txt
 echo "CPU speed	3.4 GHz" >> tiempos.txt
 echo "CPU CORES	4 fisicos + 4 virtuales" >> tiempos.txt
+
+echo "en GPU de 1 bloque con n thread, fue mejor apartir de 1200 mayor a N" >> tiempos.txt
+echo "en GPU de 1 thread con n bloques, fue mejor en N = 1000, por una extraña razón, ya no podía calcular después de esa N
+" >> tiempos.txt
+echo "en GPU de n/10 bloques con n/5 threads, fue mejor desde N = 1000" >> tiempos.txt
 
 rm OMP Mult C1B C1T CUDAMult
